@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code history
+.history/
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# Sensitive local configuration
+appsettings.*.local.json
+secrets.json
